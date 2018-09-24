@@ -1,6 +1,4 @@
----?color=#222222
-
-### Data-structures for the MUSE economics model
+@title[Data-structures for the MUSE economics model]
 #### Mayeul d'Avezac -- RSE -- ICT -- Imperial
 
 ---
