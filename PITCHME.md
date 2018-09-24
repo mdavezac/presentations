@@ -1,3 +1,5 @@
+---?color=#222222
+
 @snap[north-west]
 ## Data-structures for the MUSE economics model
 ### Mayeul d'Avezac -- RSE -- ICT -- Imperial
